@@ -1,0 +1,27 @@
+{
+	"name": "timestamp-bugron",
+	"version": "0.0.1",
+	"description": "Apis and Microservices Projects - Timestamp Microservice",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4",
+		"cors": "^2.8.0"
+	},
+	"engines": {
+		"node": "10.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://githost.com/camper/repo.git"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
